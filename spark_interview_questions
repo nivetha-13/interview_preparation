@@ -1,0 +1,42 @@
+Spark:
+1) What is performance tuning?
+
+ 2) What is difference between RDD / Dataframe / Dataset?
+
+ 3) What is RDD and what is resilient in RDD?
+
+ 4) How to create RDD's?
+
+ 5) What is Broadcast join?     
+
+ 6) Spark Architecture
+
+ 7) Spark Session Vs Spark Context
+
+ 8) Accumulator Vs Broadcast variables
+
+ 9) Cache and Persist
+
+ 10) ReduceBykey Vs GroupBykey
+
+ 11) Repartition() vs Coalesce()
+
+ 12) Optimization Techniques
+
+ 13) batch vs stream processing
+
+ 14) Lazy Evaluation
+
+ 15) Structured Vs Unstructured
+
+ 16) Serialization
+
+ 17) Salting (data skew)
+
+ 18) Hive PartionBy / Bucket By (data skew)
+
+ 19) What is the default shuffle partitions?
+
+ 20) Diff b/n map & map partitions?
+
+ 21) 1000 nodes and 8000 blobs. Which one will you use repartition / coalesce?
